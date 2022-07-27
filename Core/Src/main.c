@@ -65,7 +65,7 @@ static void MX_TIM6_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 #define RxBuf_SIZE   15
-#define MainBuf_SIZE 100
+#define MainBuf_SIZE 50
 
 uint8_t RxBuf[RxBuf_SIZE];
 uint8_t MainBuf[MainBuf_SIZE];
